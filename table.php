@@ -13,5 +13,6 @@ if($query){
     echo "Your Data insert successfully!";
 }
 
+
 // insert
 ?>
