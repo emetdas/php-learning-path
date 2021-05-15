@@ -18,6 +18,7 @@ if (isset($_POST['submit'])) {
 <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">
     <input type="email" name="email" id="email">
     <input type="password" name="password">
+    <input type="submit" value="Submit">
 </form>
 
 
